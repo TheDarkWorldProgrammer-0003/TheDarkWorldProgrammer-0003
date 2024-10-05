@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android/iOs app development
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on app development projects.
-- 📫 How to reach me [(linkedin.com/in/shrey-vashisth-28bb6325a)]
+- 📫 How to reach me https://www.linkedin.com/in/shrey-vashisth-28bb6325a
 - 😄 Pronouns: Technical Cadet
 - ⚡ Fun fact: Provide me task then only u will get to know. 
 
