@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/shrey-vashisth-28bb6325a**
 
-- ⚡ Fun fact **Provide me task then only u will get to kn**
+- ⚡ Fun fact **Provide me task then only u will get to know**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
