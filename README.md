@@ -45,25 +45,33 @@ I'm a **Computer Science & IT student** focused on becoming a strong **Java Back
 
 ---
 
-## 📊 GitHub
+## 📌 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheDarkWorldProgrammer-0003&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=475569&icon_color=2563EB" width="70%"/>
+<a href="https://github.com/TheDarkWorldProgrammer-0003">
+<img src="https://img.shields.io/github/followers/TheDarkWorldProgrammer-0003?style=for-the-badge&label=FOLLOWERS&color=2563EB"/>
+</a>
 
-<br/><br/>
+<a href="https://github.com/TheDarkWorldProgrammer-0003?tab=repositories">
+<img src="https://img.shields.io/github/stars/TheDarkWorldProgrammer-0003?style=for-the-badge&label=TOTAL%20STARS&color=F59E0B"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkWorldProgrammer-0003&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=475569" width="45%"/>
+<a href="https://github.com/TheDarkWorldProgrammer-0003?tab=repositories">
+<img src="https://img.shields.io/github/repositories/TheDarkWorldProgrammer-0003?style=for-the-badge&label=REPOSITORIES&color=10B981"/>
+</a>
 
 </div>
 
----
-
-## 🐍 Contributions
+<br/>
 
 <div align="center">
 
-<img src="./output/github-contribution-grid-snake.svg" width="96%" alt="GitHub contribution snake"/>
+**My live contribution graph is available directly on my GitHub profile.**
+
+<a href="https://github.com/TheDarkWorldProgrammer-0003">
+<img src="https://img.shields.io/badge/VIEW%20GITHUB%20ACTIVITY-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
