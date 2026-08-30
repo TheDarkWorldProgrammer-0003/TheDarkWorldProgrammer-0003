@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:EFF6FF,50:DBEAFE,100:BFDBFE&text=SHREY%20VASHISHT&fontSize=44&fontColor=0F172A&fontAlignY=38&desc=Java%20Backend%20Developer&descAlignY=61&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:EFF6FF,50:DBEAFE,100:BFDBFE&text=SHREY%20VASHISTH&fontSize=44&fontColor=0F172A&fontAlignY=38&desc=Java%20Backend%20Developer&descAlignY=61&descSize=18&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Hibernate;REST+APIs+%7C+MySQL+%7C+Docker;Building+Clean+%26+Scalable+Backend+Systems;Code.+Build.+Learn.+Repeat.+%F0%9F%8F%80" />
 
